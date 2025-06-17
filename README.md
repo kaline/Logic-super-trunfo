@@ -1,24 +1,32 @@
-Resumo do que o programa faz:
-Cadastro de cartas com atributos numéricos.
+# Super Trunfo - Jogo de Cartas em C 🃏🇧🇷
 
-Menu interativo para:
+## 🧠 Resumo do que o programa faz:
 
-Cadastrar cartas.
+Este programa simula o jogo **Super Trunfo** com cartas de países, utilizando a linguagem C. Ele permite que o usuário cadastre cartas com atributos, visualize as cartas cadastradas e compare atributos entre elas.
 
-Exibir cartas.
+---
 
-Comparar:
+## 📋 Funcionalidades:
 
-Um único atributo (Desafio 1).
+### ✅ Cadastro de cartas com atributos numéricos:
+Cada carta contém os seguintes atributos:
+- Nome
+- Força
+- Inteligência
+- Velocidade
 
-Múltiplos atributos (Desafio 2).
+---
 
-Dois atributos com operador ternário (Desafio 3).
+## 📌 Menu interativo:
 
-Uso de:
+### O menu principal permite:
+- **Cadastrar cartas**
+- **Exibir cartas**
+- **Comparar atributos entre duas cartas**, por meio de três desafios:
 
-if, if-else, else-if (decisões simples, aninhadas, encadeadas).
+---
 
-switch-case.
+## 🎯 Tipos de Comparação:
 
-Operador ternário (?:).
+### 🟡 Desafio 1: Comparar um único atributo
+- Usuário escolhe um atributo (força, inteligência ou
